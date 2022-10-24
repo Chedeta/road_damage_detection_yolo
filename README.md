@@ -22,8 +22,15 @@ A chacune des photos est associé un fichier <code>.xml</code> contenant une lis
 
 <img src="https://iili.io/DubqG4.md.png">
 
-## 2. Aperçu des résultats  
- 
-## 3. Crédits
+## 2. Aperçu des données
+
+Le dataset est fourni avec une description des défauts présents sur la route :
+
+<img src="https://iili.io/DA3bb2.md.png">
+
+
+## 3. Aperçu des résulats
+
+## 4. Crédits
 
 Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a> et <a href='https://github.com/HenriPuntous/'>Henri</a>
