@@ -22,7 +22,7 @@ A chacune des photos est associé un fichier <code>.xml</code> contenant une lis
 
 <img src="https://i.postimg.cc/4xSqxdbR/Capture.png">
 
-## 2. Aperçu des résultats 
+## 2. Aperçu des résultats  
  
 ## 3. Crédits
 
