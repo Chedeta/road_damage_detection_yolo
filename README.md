@@ -22,7 +22,7 @@ A chacune des photos est associé un fichier <code>.xml</code> contenant une lis
 
 <img src="https://iili.io/DubqG4.md.png">
 
-## 2. Aperçu des données
+## 2. Aperçu des défauts
 
 Le dataset est fourni avec une description des défauts présents sur la route :
 
@@ -30,6 +30,9 @@ Le dataset est fourni avec une description des défauts présents sur la route :
 
 
 ## 3. Aperçu des résulats
+
+L'ensemble du projet a été développé à l'aide de Google Collab, l'outil étant mieux adapté pour l'utilisation de Yolov5 et des dépendances.
+
 
 ## 4. Crédits
 
