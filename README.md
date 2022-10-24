@@ -20,7 +20,7 @@ Le dataset utilisé dans cette étude est un jeu de données de 2020 portant sur
 
 A chacune des photos est associé un fichier <code>.xml</code> contenant une liste des défauts présents sur l'image avec leur catégorie et leurs boundig box.
 
-<img src='https://i.postimg.cc/4xSqxdbR/Capture.png' border='0' alt='Capture'/>
+<img src="https://iili.io/DubqG4.md.png">
 
 ## 2. Aperçu des résultats  
  
