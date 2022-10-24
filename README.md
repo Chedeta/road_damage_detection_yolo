@@ -23,7 +23,7 @@ A chacune des photos est associé un fichier <code>.xml</code> contenant une lis
 <img src="https://i.ibb.co/Qf02mCQ/Capture.png">
 
 ## 2. Aperçu des résultats 
-
+ 
 ## 3. Crédits
 
 Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a> et <a href='https://github.com/HenriPuntous/'>Henri</a>
