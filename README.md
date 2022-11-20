@@ -41,4 +41,4 @@ Plusieurs trainings avec plusieurs épochs et finetuning différents ont permis 
 
 ## 4. Crédits
 
-Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a> et <a href='https://github.com/HenriPuntous/'>Henri</a>
+Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a>, <a href='https://github.com/HenriPuntous/'>Henri</a> et <a href='https://github.com/NBridelance'>Nicolas</a>.
