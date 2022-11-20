@@ -33,6 +33,11 @@ Le dataset est fourni avec une description des défauts présents sur la route :
 
 L'ensemble du projet a été développé à l'aide de Google Collab, l'outil étant mieux adapté pour l'utilisation de Yolov5 et des dépendances.
 
+![image](https://user-images.githubusercontent.com/96300465/202906951-1b7ebe74-5daa-4a97-aeb2-c123c45f8f63.png)
+
+Plusieurs trainings avec plusieurs épochs et finetuning différents ont permis de déterminer le meilleur run parmi ceux effetués, qui a ensuite été intégré à l'outil de visualisation de modèles Gradio.
+
+![image](https://user-images.githubusercontent.com/96300465/202907054-88f0086a-aa29-4f93-bc70-6437ea781da3.png)
 
 ## 4. Crédits
 
